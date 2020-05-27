@@ -1,5 +1,5 @@
 # DCL(Efficient-B7)
-Destruction Construstion Learning revisied for [CVPR FGVC7 - Plant Pathology 2020](https://www.kaggle.com/c/plant-pathology-2020-fgvc7), implemented in Pytorch. Got ROC-AUC score 98.4 on local 5-fold cross-validation, 97.0 on private leaderboard, and 98.3 on public leaderboard.
+Destruction and Construstion Learning revisied for [CVPR FGVC7 - Plant Pathology 2020](https://www.kaggle.com/c/plant-pathology-2020-fgvc7), implemented in Pytorch. Got ROC-AUC score 98.4 on local 5-fold cross-validation, 97.0 on private leaderboard, and 98.3 on public leaderboard.
 
 Run **main.py** to start training and testing process.
 
