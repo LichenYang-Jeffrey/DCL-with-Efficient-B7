@@ -1,5 +1,5 @@
 # DCL(Efficient-B7)
-Destruction Construstion Learning revisied for CVPR FGVC7 - Plant Pathology 2020, implemented in Pytorch.
+Destruction Construstion Learning revisied for [CVPR FGVC7 - Plant Pathology 2020](https://www.kaggle.com/c/plant-pathology-2020-fgvc7), implemented in Pytorch.
 
 Run **main.py** to start training and testing process.
 
