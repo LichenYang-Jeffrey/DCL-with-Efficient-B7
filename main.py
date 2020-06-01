@@ -18,7 +18,6 @@ from albumentations.pytorch import ToTensorV2
 from sklearn.metrics import roc_auc_score
 from sklearn.model_selection import KFold, StratifiedKFold
 
-from AAPolicy import ImageNetPolicy
 import torchvision.transforms as transforms
 from PIL import Image
 from models.DCL import *
